@@ -1,6 +1,5 @@
 import telethon
 from telethon import events
-from config import 
 import os
 import logging
 import asyncio
